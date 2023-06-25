@@ -9,37 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StatemanagementSession
 build_property.RootNamespace = StatemanagementSession
-build_property.ProjectDir = E:\Task\StateManagements\StatemanagementSession\StatemanagementSession\
+build_property.ProjectDir = E:\Task\StateManagements\StateManagementSession\StatemanagementSession\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Task\StateManagements\StatemanagementSession\StatemanagementSession
+build_property.MSBuildProjectDirectory = E:\Task\StateManagements\StateManagementSession\StatemanagementSession
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Task/StateManagements/StatemanagementSession/StatemanagementSession/Views/Home/Index.cshtml]
+[E:/Task/StateManagements/StateManagementSession/StatemanagementSession/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Task/StateManagements/StateManagementSession/StatemanagementSession/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Task/StateManagements/StatemanagementSession/StatemanagementSession/Views/Home/Privacy.cshtml]
+[E:/Task/StateManagements/StateManagementSession/StatemanagementSession/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Task/StateManagements/StatemanagementSession/StatemanagementSession/Views/Shared/Error.cshtml]
+[E:/Task/StateManagements/StateManagementSession/StatemanagementSession/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Task/StateManagements/StatemanagementSession/StatemanagementSession/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Task/StateManagements/StateManagementSession/StatemanagementSession/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Task/StateManagements/StatemanagementSession/StatemanagementSession/Views/_ViewImports.cshtml]
+[E:/Task/StateManagements/StateManagementSession/StatemanagementSession/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Task/StateManagements/StatemanagementSession/StatemanagementSession/Views/_ViewStart.cshtml]
+[E:/Task/StateManagements/StateManagementSession/StatemanagementSession/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Task/StateManagements/StatemanagementSession/StatemanagementSession/Views/Shared/_Layout.cshtml]
+[E:/Task/StateManagements/StateManagementSession/StatemanagementSession/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3thuk4j08s

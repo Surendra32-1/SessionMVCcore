@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDP/3diNpxUUGHXxQJmw8+PngRr423/lAn61PM9SzN0rMUHwVLBMTgTPvbh04aRrFmH3+bHvXwOr/+vbH2eeVg==",
+  "dgSpecHash": "GdNYAts0nK0t1Yw+xGN558DUXhe0JFy7PsRwBN4OGHdb6Blmmgs2MKlRVVlyjY5TyeK4YMWSegP80Nr4AUOKdw==",
   "success": true,
-  "projectFilePath": "E:\\Task\\StateManagements\\StatemanagementSession\\StatemanagementSession\\StatemanagementSession.csproj",
+  "projectFilePath": "E:\\Task\\StateManagements\\StateManagementSession\\StatemanagementSession\\StatemanagementSession.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DeLL\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\DeLL\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

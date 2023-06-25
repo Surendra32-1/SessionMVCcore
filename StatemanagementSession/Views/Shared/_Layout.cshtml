@@ -25,6 +25,36 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="About">About</a>
+                        </li>
+
+                    </ul>
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            @{
+
+                                string UserName = "";
+                                byte[] user;
+                                Context.Session.TryGetValue("name", out user);
+                                if (user != null)
+                                {
+                                    UserName = System.Text.Encoding.UTF8.GetString(user);
+                                }
+                            }
+                            @{
+                                if (!string.IsNullOrEmpty(UserName))
+                                {
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login"></a>
+                                }
+                                else
+                                {
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Logout"></a>
+                                }
+
+
+                            }
+                        </li>
                     </ul>
                 </div>
             </div>

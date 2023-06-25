@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Task\\StateManagements\\StatemanagementSession\\StatemanagementSession\\StatemanagementSession.csproj": {}
+    "E:\\Task\\StateManagements\\StateManagementSession\\StatemanagementSession\\StatemanagementSession.csproj": {}
   },
   "projects": {
-    "E:\\Task\\StateManagements\\StatemanagementSession\\StatemanagementSession\\StatemanagementSession.csproj": {
+    "E:\\Task\\StateManagements\\StateManagementSession\\StatemanagementSession\\StatemanagementSession.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Task\\StateManagements\\StatemanagementSession\\StatemanagementSession\\StatemanagementSession.csproj",
+        "projectUniqueName": "E:\\Task\\StateManagements\\StateManagementSession\\StatemanagementSession\\StatemanagementSession.csproj",
         "projectName": "StatemanagementSession",
-        "projectPath": "E:\\Task\\StateManagements\\StatemanagementSession\\StatemanagementSession\\StatemanagementSession.csproj",
+        "projectPath": "E:\\Task\\StateManagements\\StateManagementSession\\StatemanagementSession\\StatemanagementSession.csproj",
         "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
-        "outputPath": "E:\\Task\\StateManagements\\StatemanagementSession\\StatemanagementSession\\obj\\",
+        "outputPath": "E:\\Task\\StateManagements\\StateManagementSession\\StatemanagementSession\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DeLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
